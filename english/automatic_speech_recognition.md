@@ -1,4 +1,3 @@
-# Automatic speech recognition (ASR)
+# Pengenalan Ucapan Otomatis (PUO)
 
-Automatic speech recognition is the task of automatically recognizing speech. You 
-can find a repository tracking the state-of-the-art [here](https://github.com/syhw/wer_are_we).
+Pengenalan Ucapan Otomatis adalah tugas yang dilakukan secara otomatis untuk mengenali ucapan. Kamu bisa mencari repositori yang melacak state of art disini [here](https://github.com/syhw/wer_are_we).
